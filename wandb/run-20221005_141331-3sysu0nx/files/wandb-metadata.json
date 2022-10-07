@@ -1,0 +1,16 @@
+{
+    "os": "macOS-12.6-arm64-arm-64bit",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-10-05T12:13:31.851679",
+    "startedAt": "2022-10-05T12:13:31.130166",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/Tom/Documents/MSc AI/Assignment2/Testlib.py",
+    "codePath": "Testlib.py",
+    "host": "MacBook-Pro-4.local",
+    "username": "Tom",
+    "executable": "/Users/Tom/miniforge3/envs/submin/bin/python"
+}
